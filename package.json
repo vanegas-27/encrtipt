@@ -1,0 +1,18 @@
+{
+  "name": "encrypt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "hash",
+    "encriptación",
+    "modulacion",
+    "seguridad"
+  ],
+  "author": "Davinson vanegas <davidsonvanegas27@gmail.com>",
+  "license": "MIT",
+  "description": "Software de encriptacion, (encrypt) diseñado para brindar un campo mas de seguridad a las contraseñas y asi lograr que sean mas seguras, proyecto de practica tomado de ejemplo a la libreria bcrypt"
+}
